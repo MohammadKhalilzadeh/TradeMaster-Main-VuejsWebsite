@@ -1,0 +1,92 @@
+{
+    "dirs": "ltr",
+
+    "Button_1":"TradeMater Coin",
+    "Button_2":"BooksToSale",
+    "Button_3":"TM SHOP",
+    "Button_4":"Token",
+    "Button_5":"Login",
+    "Button_6":"Products",
+    "Button_7":"Contact us",
+    "Button_8":"Coming Soon",
+
+    "Button_9":"Edit",
+    "Button_10":"Exit",
+    "Button_11":"Change Password",
+    "Button_12":"ADD",
+    "Button_13":"See more",
+
+    "Button_14":"Mentoring",
+    "Button_15":"Our Team",
+    "Button_16":"Donation",
+    "Button_17":"Transporst Master",
+
+    "title_1":"Your Information",
+    "title_2":"Your Books",
+    "title_3":"Your Accounts",
+
+    "Home_intro_title":"What Does TradeMaster Do?",
+    "Home_intro":"TradeMaster is an online global tech company with many different and missivly in demand services. Giving ability to TradeMaster users via TradeMaster platforms to purchase and also sell any sorts of products and services, anytime and anywhere is one of our servieses. TradeMaster will also represent an online education platform to help all the people around the world to get educated in any subject and field that they are interested in. Helping our clients for imports and exports and also selling you old books are our other services. And many other new things to come!",
+    
+    "Home_intro_title2":"Aria Radman Mehr Charity",
+    "Home_intro2":"Aria Radman Mehr Charity is active in the field of services, job creation, as well as empowering the low-income, weak and vulnerable sections of society. This charity provides training and empowerment to applicants by providing favorable conditions.",
+    
+    "Home_intro_title3":"Naghsh Afarin Khatam Qazvin Company",
+    "Home_intro3":"Naghshafarin Khatam Qazvin Company is another partner of Tridmaster that operates in the field of handicrafts such as hand-woven carpets, kilims, etc. The company also tries to help revive and preserve our land by educating those interested in this ancient industry and art.",
+    
+    "Home_intro_title4":"We and our Partners",
+
+
+    "GetStart_title":"Getting Started",
+    "GetStart_field1":"First Name",
+    "GetStart_field2":"Last Name",
+    "GetStart_field3":"Email",
+    "GetStart_field4":"Phone",
+    "GetStart_field5":"Password",
+    "GetStart_field6":"Re-password",
+    "GetStart_field7":"Email or Phone",
+    "GetStart_Btn":"Register",
+
+    "Login_title":"Enter credentials to login",
+    "Login_Btn":"Login",    
+    
+    "Footer_link1":"Our Instagram",
+    "Footer_link2":"Our Twitter",
+    "Footer_link3":"Our Telegram",
+    "Footer_link4":"Our Email",
+    "Footer_desc":"Tell your friends about us TradeMaster is ready to provide best possible quality of service possible to all the users around the globe.",
+    "Footer_C":"© Copyright Agency and contributors 2021. ABN 00 000 000 000",
+
+    "Recently_ADDed":"About the BooksToSale service",    
+    "books_desc":"With the provision of BooksToSale service by Tradmaster, it is possible for book buyers to provide their desired books as second-hand books and used at a much lower and more economical price, thus preventing excessive consumption of paper and damage to the environment. . To use these valuable Tradmaster services, you can use the Tradmaster BooksToSale application, which you can download by going to the Bazaar Cafe App Store, or click the button below to download the application immediately. ",
+
+    "Go_Shopping":"TradeMaster SHOP",
+    "Go_Shopping_Q":"What TradeMaster Go Shopping Experience does?",
+    "Go_Shopping_Desc":"TradeMaster Go Shopping experience is designed to help all sorts of businesses from smallest to the largest ones with all kinds of products or services, upload their items with their details and their photoes, it they have any, and make it available for customers to purchase them. So it doesn't matter whether you have a barber shop or a supermarket or event building arts and toys in your own houses, we'll help you sell them and make money easily. What makes this platform better and different from others is that it's based on the businesses location, meaning that you only need to open the app our website and find anythings you want on the map in the closest distance. with least expanses and as fast as possible.",
+    "dwnlod_btn":"Download",
+
+    "Go_Shopping_serv": "Our Services",
+    "Go_Shopping_Owners":"Owner of Businesses in TradeMaster Go Shopping Experience will have a professional panel according to their sort of business, enabling them to create and categorize their products and services as items with their specifications to display them to customers to sell them.",
+    "Go_Shopping_C":"With This peace of technology it's now easier and more efficient than ever for customers to purchase any thing they desire. The only thing customers need to do in download the app, install and signup in it or maybe they'd like registering via website and then opening the map in the app and order anything they want in their neighborhood or anywhere they want.",
+    "Shopping_Platforms":"Go Shopping Platforms",
+    "Go_shop_title1":"For sellers",
+    "Go_shop_title2":"For buyers and customers",
+
+
+    "EI_title":"TradeMaster Import/Export Services",
+    "EI_Desc":"TradeMaster Import/Export Services with help you to import or export your consignment and goods under the laws of the country and legaly.",
+
+    "TM_Subjs":"Available Courses",
+    "How_to":"About the Elite Course",
+    "How_to_Desc":"Tradmaster intends to offer its virtual training content in the form of the Elite Course brand, which is part of the company's training department. The content of all these trainings, which are often free or at the lowest possible cost and with the highest quality, is available through the Elite Course mobile application. Put your contacts. Tridmaster also provides training content in a variety of fields through institutions and companies that work with it to those interested in learning and internships in these fields.",
+    "TM_Cs":" No Couses Available Yet. ",
+    
+    "Contact_us":"Fill in the Form to Contact us",
+    "Something":"Write something",
+    "Contactus_btn":"Send Ticket",
+    "Contact_Comment":"We're always with you",
+
+    "Products_text":"No products available st the moment",
+    
+    "token":"Coming Soon..."
+}

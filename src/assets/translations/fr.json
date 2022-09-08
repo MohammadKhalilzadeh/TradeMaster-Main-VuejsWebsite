@@ -1,0 +1,87 @@
+{
+    "dirs": "text-align: left;",
+
+    "Button_1":"TradeMater Coin",
+    "Button_2":"BooksToSale",
+    "Button_3":"TradeMater SHOP",
+    "Button_4":"EliteCourse",
+    "Button_5":"Connexion",
+    "Button_6":"Des produits",
+    "Button_7":"Contactez-nous",
+    "Button_8":"Bientôt disponible",
+
+    "Button_9":"Éditer",
+    "Button_10":"Sortir",
+    "Button_11":"Changer le mot de passe",
+    "Button_12":"ajouter",
+    "Button_13":"savoir plus",
+
+    "Button_14":"Mentorat",
+    "Button_15":"notre équipe",
+    "Button_16":"Don",
+    "Button_17":"Transport Master",
+
+
+    "title_1":"Vos informations",
+    "title_2":"Tes livres",
+    "title_3":"Vos comptes",
+
+    "Home_intro_title":"Qu'est-ce que TradeMaster ?",
+    "Home_intro":"TradeMaster est une entreprise technologique mondiale en ligne proposant de nombreux services différents et très demandés. Donner la possibilité aux utilisateurs de TradeMaster via les plates-formes TradeMaster d'acheter et de vendre toutes sortes de produits et services, à tout moment et n'importe où, est l'un de nos services. TradeMaster représentera également une plate-forme d'éducation en ligne pour aider toutes les personnes du monde entier à se former dans tous les sujets et domaines qui les intéressent. Aider nos clients pour les importations et les exportations et vous vendre des livres anciens sont nos autres services. Et bien d'autres nouveautés à venir !",
+    
+    "Home_intro_title4":"Services TradeMaster",
+
+    "GetStart_title":"Commencer",
+    "GetStart_field1":"Prénom",
+    "GetStart_field2":"Nom de famille",
+    "GetStart_field3":"E-mail",
+    "GetStart_field4":"Téléphone",
+    "GetStart_field5":"Mot de passe",
+    "GetStart_field6":"Re-mot de passe",
+    "GetStart_field7":"Email or Phone",    
+    "GetStart_Btn":"S'inscrire",
+
+    "Login_title":"Entrez les informations d'identification pour vous connecter",
+    "Login_Btn":"Connexion",
+    
+    "Footer_link1":"Notre Instagram",
+    "Footer_link2":"Notre Twitter",
+    "Footer_link3":"Notre télégramme",
+    "Footer_link4":"Notre e-mail",
+    "Footer_desc":"Parlez de nous à vos amis TradeMaster est prêt à fournir la meilleure qualité de service possible à tous les utilisateurs du monde entier.",
+    "Footer_C":"© Copyright Agency et contributeurs 2021. ABN 00 000 000 000",
+
+    "Recently_ADDed":"À propos du service BooksToSale",
+    "books_desc":"Avec la fourniture du service BooksToSale par Tradmaster, il est possible pour les acheteurs de livres de fournir les livres qu'ils souhaitent sous forme de livres d'occasion et d'occasion à un prix beaucoup plus bas et plus économique, évitant ainsi une consommation excessive de papier et des dommages à l'environnement. . Pour utiliser ces précieux services Tradmaster, vous pouvez utiliser l'application Tradmaster BooksToSale, que vous pouvez télécharger en vous rendant sur l'App Store Bazaar Cafe, ou cliquer sur le bouton ci-dessous pour télécharger l'application immédiatement. ",
+
+    "Go_Shopping":"TradeMaster faire du shopping",
+    "Go_Shopping_Q":"Que fait TradeMaster Go Shopping Experience ?",
+    "Go_Shopping_Desc":"L'expérience TradeMaster Go Shopping est conçue pour aider toutes sortes d'entreprises, des plus petites aux plus grandes, avec toutes sortes de produits ou services, télécharger leurs articles avec leurs détails et leurs photos, s'ils en ont, et les mettre à la disposition des clients pour les acheter . Peu importe que vous ayez un salon de coiffure ou un supermarché ou que vous organisiez des événements artistiques et des jouets dans vos propres maisons, nous vous aiderons à les vendre et à gagner de l'argent facilement. Ce qui rend cette plate-forme meilleure et différente des autres, c'est qu'elle est basée sur l'emplacement des entreprises, ce qui signifie qu'il vous suffit d'ouvrir l'application de notre site Web et de trouver tout ce que vous voulez sur la carte à la distance la plus proche. avec le moins d'étendues et le plus rapidement possible.",
+    "dwnlod_btn":"Télécharger",
+
+    "Go_Shopping_serv": "Nos services",
+    "Go_Shopping_Owners":"Les propriétaires d'entreprises dans TradeMaster Go Shopping Experience auront un panel de professionnels en fonction de leur type d'entreprise, leur permettant de créer et de catégoriser leurs produits et services en tant qu'articles avec leurs spécifications pour les afficher aux clients pour les vendre.",
+    "Go_Shopping_C":"Avec cette paix de la technologie, il est maintenant plus facile et plus efficace que jamais pour les clients d'acheter tout ce qu'ils désirent. La seule chose que les clients doivent faire est de télécharger l'application, de l'installer et de s'y inscrire ou peut-être qu'ils souhaitent s'inscrire via le site Web, puis ouvrir la carte dans l'application et commander tout ce qu'ils veulent dans leur quartier ou n'importe où.",
+    "Shopping_Platforms":"Aller aux plateformes d'achat",
+    "Go_shop_title1":"Pour les vendeurs",
+    "Go_shop_title2":"Pour les acheteurs et les clients",
+
+    "EI_title":"Services d'importation/exportation TradeMaster",
+    "EI_Desc":"TradeMaster Import/Export Services vous aide à importer ou exporter votre envoi et vos marchandises conformément aux lois du pays et légalement.",
+
+    "TM_Subjs":"Cours disponibles",
+    "How_to":"À propos du parcours Élite",
+    "How_to_Desc":"Tradmaster entend proposer ses contenus de formation virtuelle sous la forme de la marque Elite Course, qui fait partie du service formation de l'entreprise. Le contenu de toutes ces formations, souvent gratuites ou à moindre coût et avec la meilleure qualité, est disponible via l'application mobile Elite Course. Mettez vos contacts. Tridmaster fournit également des contenus de formation dans une variété de domaines par le biais d'institutions et d'entreprises qui travaillent avec lui à ceux qui sont intéressés par l'apprentissage et les stages dans ces domaines.",
+    "TM_Cs":"Cher utilisateur, Il n'y a actuellement aucun cours disponible",
+
+
+    "Contact_us":"Fill in the Form to Contact us",
+    "Something":"Écris quelque chose",
+    "Contactus_btn":"Envoyer un billet",
+    "Contact_Comment":"Nous sommes toujours avec vous",
+
+ 
+    "Products_text":"Aucun produit disponible pour le moment",
+    
+    "token":"À venir..."
+}
